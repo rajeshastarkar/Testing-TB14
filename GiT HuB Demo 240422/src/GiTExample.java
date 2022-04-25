@@ -55,6 +55,11 @@
 	  {
 		  System.out.println("This is m11 Method");
 	  }
+	  
+	  public void m12()
+	  {
+		  System.out.println("This is m12 Method");
+	  }
 	 
 	  
 
@@ -78,11 +83,7 @@
      git.m9();
      git.m10();
      git.m11();
-    
-    
-    
-
-
+     git.m11();
   }
   }
   
