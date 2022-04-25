@@ -43,9 +43,16 @@
             {
 	       System.out.println("This  is m9 Method");
             }
+<<<<<<< HEAD
 	   public void m10()
            {
+=======
+	  
+	   public void m10()
+            {
+>>>>>>> branch 'master' of https://github.com/rajeshastarkar/Testing-TB14.git
 	       System.out.println("This  is m10 Method");
+<<<<<<< HEAD
            }
 	   
 	  public void m11()
@@ -54,6 +61,10 @@
 	  }
 	 
 	  
+=======
+            }
+	 
+>>>>>>> branch 'master' of https://github.com/rajeshastarkar/Testing-TB14.git
 	  
 	  
  public static void main(String[] args) 
@@ -74,6 +85,7 @@
      git.m9();
      git.m10();
      git.m11();
+    
     
     
 
