@@ -16,9 +16,9 @@ public class PullAndPush
 		System.out.println("This is m3 Method");
 	}
 	
-	public void m4()
+	public void m5()
 	{
-		System.out.println("This is m4 Method");
+		System.out.println("This is m5 Method");
 	}
 	
 	
