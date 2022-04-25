@@ -1,5 +1,5 @@
 
-public class PullAndPush 
+public class PullAndPush2
 {
 	public void m1()
 	{
@@ -14,6 +14,10 @@ public class PullAndPush
 	public void m3()
 	{
 		System.out.println("This is m3 Method");
+	}
+	public void m4()
+	{
+		System.out.println("This is m4 Method");
 	}
 	
 	public void m5()
@@ -33,10 +37,11 @@ public class PullAndPush
 	{
 		System.out.println("Amit Sir");
 		
-		PullAndPush pull=new PullAndPush();
+		PullAndPush2 pull=new PullAndPush2();
 		pull.m1();
 		pull.m2();
 		pull.m3();
+		pull.m4();
 		pull.m5();
 		pull.m6();
 		
