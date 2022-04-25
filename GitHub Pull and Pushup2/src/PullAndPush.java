@@ -35,6 +35,11 @@ public class PullAndPush
 		
 		PullAndPush pull=new PullAndPush();
 		pull.m1();
+		pull.m2();
+		pull.m3();
+		pull.m5();
+		pull.m6();
+		
 	}
 	
 	
