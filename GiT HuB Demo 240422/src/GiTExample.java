@@ -17,5 +17,9 @@
     git.m1();
     
   }
+	  public void m3()
+	  {
+		  
+	  }
   
   }
