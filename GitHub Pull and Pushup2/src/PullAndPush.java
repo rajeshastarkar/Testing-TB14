@@ -22,6 +22,12 @@ public class PullAndPush
 	}
 	
 	
+	public void m6()
+	{
+		System.out.println("This is m6 Method");
+	}
+	
+	
 	
 	public static void main(String[] args) 
 	{
