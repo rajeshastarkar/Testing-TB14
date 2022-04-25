@@ -31,6 +31,15 @@
 		   System.out.println("This  is m6 Method");
 	  }
 	  
+	  public void m7()
+      {
+	       System.out.println("This  is m4 Method");
+      }
+	  public void m8()
+      {
+	       System.out.println("This  is m4 Method");
+      }
+	  
 	  
  public static void main(String[] args) 
   
@@ -41,10 +50,12 @@
     GiTExample git=new GiTExample();
      git.m1();
      git.m2();
-	 git.m3();
-	 git.m4();
-	 git.m5();
-	 git.m6();
+     git.m3();  
+     git.m4();
+     git.m5();
+     git.m6();
+     git.m7();
+     git.m8();
     
 
 
