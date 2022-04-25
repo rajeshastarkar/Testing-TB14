@@ -34,6 +34,10 @@
 	  {
 		  System.out.println("This  is m7 Method");
 	  }
+	  public void m8()
+	  {
+		  System.out.println("This  is m8 Method");
+	  }
 	  public static void main(String[] args) 
 	  
 	  {
@@ -47,5 +51,6 @@
     git.m5();
     git.m6();
     git.m7();
+    git.m8();
   }
   }
