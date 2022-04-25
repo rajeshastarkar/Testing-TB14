@@ -43,10 +43,7 @@
             {
 	       System.out.println("This  is m9 Method");
             }
-	  public void m10()
-           {
-	       System.out.println("This  is m10 Method");
-           }
+	 
 	  
 	  
  public static void main(String[] args) 
@@ -65,7 +62,7 @@
      git.m7();
      git.m8();
      git.m9();
-     git.m10();
+    
     
 
 
