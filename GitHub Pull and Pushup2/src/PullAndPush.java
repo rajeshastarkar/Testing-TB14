@@ -16,6 +16,13 @@ public class PullAndPush
 		System.out.println("This is m3 Method");
 	}
 	
+	public void m4()
+	{
+		System.out.println("This is m4 Method");
+	}
+	
+	
+	
 	public static void main(String[] args) 
 	{
 		System.out.println("Amit Sir");
